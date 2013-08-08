@@ -10,4 +10,8 @@ class Redirector
     new_url  = URI::HTTP.build(host: host, path: new_path)
     [301, { "Location" => new_url.to_s }, self]
   end
+
+  def each(&block)
+    block.call
+  end
 end
