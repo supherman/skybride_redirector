@@ -12,6 +12,6 @@ class Redirector
   end
 
   def each(&block)
-    block.call
+    block.call("\n")
   end
 end
