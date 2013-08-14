@@ -1,14 +1,14 @@
 /: /
 /castlehillcider: /vendors/castlehillcider
-/stpehanieritaphoto: /vendors/castlehillcider
+/stpehanieritaphoto: /vendors/stpehanieritaphoto
 /rachelanne: /vendors/rachelanne
 /aandlfloraldesign: /vendors/aandlfloraldesign
 /seekatzoh: /vendors/seekatzoh
 /bellafotostudios: /vendors/bellafotostudios
 /heatherburks: /vendors/heatherburks
 /dallasgirlfriday: /vendors/dallasgirlfriday
-/handinhandpa: /vendors/dallasgirlfriday
-/onetouchevents: /vendors/dallasgirlfriday
+/handinhandpa: /vendors/handinhandpa
+/onetouchevents: /vendors/onetouchevents
 /adance2lastforever: /vendors/adance2lastforever
 /VirginiaWeddings: /vendors/VirginiaWeddings
 /redefiningmoments: /vendors/redefiningmoments
@@ -34,7 +34,7 @@
 /seller: /sell-a-wedding
 /vendor:
 /about: /about
-/media-coverage: /
+/media-coverage:
 /contact: /contact
 /user-profile:
 /buyer:
@@ -49,5 +49,3 @@
 /update-billing-info:
 /upgrade-to-premium-vendor:
 /free-vendor:
-/testlink:
-/test:
