@@ -32,20 +32,20 @@
 /heatherb: /vendors/heatherb
 /front-page: /
 /seller: /sell-a-wedding
-/vendor:
+/vendor: /vendors
 /about: /about
-/media-coverage:
+/media-coverage: /about
 /contact: /contact
 /user-profile:
-/buyer:
-/premium-vendor:
-/listinga:
+/buyer: /find-a-wedding
+/premium-vendor: /vendors
+/listinga: /find-a-wedding
 /faq: /faq
-/seller-resources:
+/seller-resources: /sell-a-wedding
 /market: /find-a-wedding
-/upload-contract:
-/profile:
-/cancel-subscription:
-/update-billing-info:
-/upgrade-to-premium-vendor:
-/free-vendor:
+/upload-contract: /sell-a-wedding
+/profile: /users/sign_in
+/cancel-subscription: /users/sign_in
+/update-billing-info: /users/sign_in
+/upgrade-to-premium-vendor: /vendors
+/free-vendor: /vendors
